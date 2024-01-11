@@ -2,7 +2,7 @@
 Brief study about apache kafka
 
 Setup the files:
-cretae data folder in the root level of the kafka folder
+create data folder in the root level of the kafka folder
 server.properties - change log.dirs=/data/kafka
 zookeeper.properties - dataDir=/data/zookeeper
 
